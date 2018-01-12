@@ -1,0 +1,474 @@
+{ "id": 234, "nombre": "Achao", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 225, "nombre": "Alerce", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 55, "nombre": "Algarrobal-Punta El Olivo", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 334, "nombre": "Algarrobo", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 280, "nombre": "Alto Hospicio", "tipo": "ciudad", "region": "Región de Tarapacá", "idregion": 1 }
+{ "id": 463, "nombre": "Alto Jahuel", "tipo": "ciudad", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 446, "nombre": "Ancud", "tipo": "ciudad", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 298, "nombre": "Andacollo", "tipo": "ciudad", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 424, "nombre": "Angol", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 72, "nombre": "Angostura", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 92, "nombre": "Angostura", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 145, "nombre": "Antiguala", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 281, "nombre": "Antofagasta", "tipo": "ciudad", "region": "Región de Antofagasta", "idregion": 2 }
+{ "id": 151, "nombre": "Antuco", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 391, "nombre": "Arauco", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 277, "nombre": "Arica", "tipo": "ciudad", "region": "Región de Arica y Parinacota", "idregion": 15 }
+{ "id": 43, "nombre": "Artificio", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 93, "nombre": "Auquinco", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 10, "nombre": "Bahía Inglesa", "tipo": "pueblo", "region": "Región de Atacama", "idregion": 3 }
+{ "id": 239, "nombre": "Bahía Mansa", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 464, "nombre": "Bajos de San Agustín", "tipo": "ciudad", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 194, "nombre": "Barros Arana", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 460, "nombre": "Batuco", "tipo": "ciudad", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 134, "nombre": "Bobadilla", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 273, "nombre": "Bollenar", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 89, "nombre": "Bucalemu", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 462, "nombre": "Buin", "tipo": "ciudad", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 404, "nombre": "Bulnes", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 329, "nombre": "Cabildo", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 395, "nombre": "Cabrero", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 174, "nombre": "Cachapoal", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 81, "nombre": "Cáhuil", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 201, "nombre": "Cajón", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 282, "nombre": "Calama", "tipo": "ciudad", "region": "Región de Antofagasta", "idregion": 2 }
+{ "id": 440, "nombre": "Calbuco", "tipo": "ciudad", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 288, "nombre": "Caldera", "tipo": "ciudad", "region": "Región de Atacama", "idregion": 3 }
+{ "id": 469, "nombre": "Calera de Tango", "tipo": "ciudad", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 138, "nombre": "Caleta Tumbes", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 325, "nombre": "Calle Larga", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 181, "nombre": "Campanario", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 22, "nombre": "Canela Baja", "tipo": "pueblo", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 392, "nombre": "Cañete", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 211, "nombre": "Capitán Pastene", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 414, "nombre": "Carahue", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 143, "nombre": "Carampangue", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 228, "nombre": "Carelmapu", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 315, "nombre": "Cartagena", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 321, "nombre": "Casablanca", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 445, "nombre": "Castro", "tipo": "ciudad", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 50, "nombre": "Catapilco", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 337, "nombre": "Catemu", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 368, "nombre": "Cauquenes", "tipo": "ciudad", "region": "Región del Maule", "idregion": 7 }
+{ "id": 5, "nombre": "Cerro Moreno", "tipo": "pueblo", "region": "Región de Antofagasta", "idregion": 2 }
+{ "id": 108, "nombre": "Chacarillas", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 242, "nombre": "Chaitén", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 272, "nombre": "Champa", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 113, "nombre": "Chanco", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 290, "nombre": "Chañaral", "tipo": "ciudad", "region": "Región de Atacama", "idregion": 3 }
+{ "id": 29, "nombre": "Chañaral Alto", "tipo": "pueblo", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 90, "nombre": "Chépica", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 200, "nombre": "Cherquenco", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 260, "nombre": "Chicureo", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 378, "nombre": "Chiguayante", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 250, "nombre": "Chile Chico", "tipo": "pueblo", "region": "Región de Aysén", "idregion": 11 }
+{ "id": 387, "nombre": "Chillán", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 388, "nombre": "Chillán Viejo", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 25, "nombre": "Chillepín", "tipo": "pueblo", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 359, "nombre": "Chimbarongo", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 46, "nombre": "Chincolco", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 204, "nombre": "Cholchol", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 230, "nombre": "Chonchi", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 163, "nombre": "Cobquecura", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 249, "nombre": "Cochrane", "tipo": "pueblo", "region": "Región de Aysén", "idregion": 11 }
+{ "id": 345, "nombre": "Codegua", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 405, "nombre": "Coelemu", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 153, "nombre": "Coihue", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 406, "nombre": "Coihueco", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 61, "nombre": "Coinco", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 130, "nombre": "Colbún", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 458, "nombre": "Colina", "tipo": "ciudad", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 3, "nombre": "Collahuasi", "tipo": "pueblo", "region": "Región de Atacama", "idregion": 1 }
+{ "id": 425, "nombre": "Collipulli", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 62, "nombre": "Coltauco", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 304, "nombre": "Combarbalá", "tipo": "ciudad", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 376, "nombre": "Concepción", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 308, "nombre": "Concón", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 366, "nombre": "Constitución", "tipo": "ciudad", "region": "Región del Maule", "idregion": 7 }
+{ "id": 144, "nombre": "Contulmo", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 221, "nombre": "Coñaripe", "tipo": "pueblo", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 287, "nombre": "Copiapó", "tipo": "ciudad", "region": "Región de Atacama", "idregion": 3 }
+{ "id": 133, "nombre": "Copihue", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 296, "nombre": "Coquimbo", "tipo": "ciudad", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 379, "nombre": "Coronel", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 214, "nombre": "Corral", "tipo": "pueblo", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 237, "nombre": "Corte Alto", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 83, "nombre": "Costa de Sol", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 69, "nombre": "Coya", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 453, "nombre": "Coyhaique", "tipo": "ciudad", "region": "Región de Aysén", "idregion": 11 }
+{ "id": 111, "nombre": "Cumpeo", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 97, "nombre": "Cunaco", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 415, "nombre": "Cunco", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 426, "nombre": "Curacautín", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 468, "nombre": "Curacaví", "tipo": "ciudad", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 393, "nombre": "Curanilahue", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 184, "nombre": "Curarrehue", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 105, "nombre": "Curepto", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 364, "nombre": "Curicó", "tipo": "ciudad", "region": "Región del Maule", "idregion": 7 }
+{ "id": 56, "nombre": "Curimón", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 231, "nombre": "Dalcahue", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 139, "nombre": "Dichato", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 291, "nombre": "Diego de Almagro", "tipo": "ciudad", "region": "Región de Atacama", "idregion": 3 }
+{ "id": 346, "nombre": "Doñihue", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 164, "nombre": "El Carmen", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 253, "nombre": "El Colorado", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 258, "nombre": "El Ingenio", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 58, "nombre": "El Llano", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 255, "nombre": "El Maitén", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 67, "nombre": "El Manzano", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 332, "nombre": "El Melón", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 471, "nombre": "El Monte", "tipo": "ciudad", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 306, "nombre": "El Palqui", "tipo": "ciudad", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 256, "nombre": "El Principal", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 335, "nombre": "El Quisco", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 266, "nombre": "El Rulo", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 13, "nombre": "El Salado", "tipo": "pueblo", "region": "Región de Atacama", "idregion": 3 }
+{ "id": 292, "nombre": "El Salvador", "tipo": "ciudad", "region": "Región de Atacama", "idregion": 3 }
+{ "id": 336, "nombre": "El Tabo", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 79, "nombre": "El Tambo", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 52, "nombre": "El Yeco", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 106, "nombre": "Empedrado", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 238, "nombre": "Entre Lagos", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 206, "nombre": "Ercilla", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 77, "nombre": "Esmeralda", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 262, "nombre": "Estación Colina", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 159, "nombre": "Estación Yumbel", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 14, "nombre": "Flamenco", "tipo": "pueblo", "region": "Región de Atacama", "idregion": 3 }
+{ "id": 136, "nombre": "Florida", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 416, "nombre": "Freire", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 16, "nombre": "Freirina", "tipo": "pueblo", "region": "Región de Atacama", "idregion": 3 }
+{ "id": 441, "nombre": "Fresia", "tipo": "ciudad", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 442, "nombre": "Frutillar", "tipo": "ciudad", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 243, "nombre": "Futaleufú", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 432, "nombre": "Futrono", "tipo": "ciudad", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 186, "nombre": "Galvarino", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 417, "nombre": "Gorbea", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 348, "nombre": "Graneros", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 26, "nombre": "Guamalata", "tipo": "pueblo", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 19, "nombre": "Guanaqueros", "tipo": "pueblo", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 344, "nombre": "Gultro", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 36, "nombre": "Hanga Roa", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 317, "nombre": "Hijuelas", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 7, "nombre": "Hornitos", "tipo": "pueblo", "region": "Región de Antofagasta", "idregion": 2 }
+{ "id": 466, "nombre": "Hospital", "tipo": "ciudad", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 369, "nombre": "Hualañé", "tipo": "ciudad", "region": "Región del Maule", "idregion": 7 }
+{ "id": 384, "nombre": "Hualpén", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 196, "nombre": "Hualpín", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 380, "nombre": "Hualqui", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 294, "nombre": "Huasco", "tipo": "ciudad", "region": "Región de Atacama", "idregion": 3 }
+{ "id": 270, "nombre": "Huelquén", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 402, "nombre": "Huépil", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 264, "nombre": "Huertos Familiares", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 102, "nombre": "Huilquilemu", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 189, "nombre": "Huiscapi", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 300, "nombre": "Illapel", "tipo": "ciudad", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 120, "nombre": "Iloca", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 278, "nombre": "Iquique", "tipo": "ciudad", "region": "Región de Tarapacá", "idregion": 1 }
+{ "id": 472, "nombre": "Isla de Maipo", "tipo": "ciudad", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 121, "nombre": "Itahue Uno", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 6, "nombre": "Juan López", "tipo": "pueblo", "region": "Región de Antofagasta", "idregion": 2 }
+{ "id": 86, "nombre": "La Boca", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 318, "nombre": "La Calera", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 27, "nombre": "La Chimba", "tipo": "pueblo", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 60, "nombre": "La Compañía", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 66, "nombre": "La Compañía (Graneros)", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 319, "nombre": "La Cruz", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 82, "nombre": "La Estrella", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 21, "nombre": "La Higuera", "tipo": "pueblo", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 473, "nombre": "La Islita", "tipo": "ciudad", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 49, "nombre": "La Laguna de Zapallar", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 397, "nombre": "La Laja", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 328, "nombre": "La Ligua", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 254, "nombre": "La Parva", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 73, "nombre": "La Punta", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 295, "nombre": "La Serena", "tipo": "ciudad", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 4, "nombre": "La Tirana", "tipo": "pueblo", "region": "Región de Atacama", "idregion": 1 }
+{ "id": 433, "nombre": "La Unión", "tipo": "ciudad", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 87, "nombre": "La Vega de Pupuya", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 413, "nombre": "Labranza", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 217, "nombre": "Lago Ranco", "tipo": "pueblo", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 31, "nombre": "Laguna Verde", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 459, "nombre": "Lampa", "tipo": "ciudad", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 434, "nombre": "Lanco", "tipo": "ciudad", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 142, "nombre": "Laraquete", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 91, "nombre": "Larmahue", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 54, "nombre": "Las Brisas", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 349, "nombre": "Las Cabras", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 156, "nombre": "Las Canteras", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 261, "nombre": "Las Canteras", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 236, "nombre": "Las Cascadas", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 129, "nombre": "Las Obras", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 17, "nombre": "Las Tacas", "tipo": "pueblo", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 322, "nombre": "Las Ventanas", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 187, "nombre": "Lastarria", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 418, "nombre": "Lautaro", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 390, "nombre": "Lebu", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 202, "nombre": "Lican Ray", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 119, "nombre": "Licantén", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 330, "nombre": "Limache", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 365, "nombre": "Linares", "tipo": "ciudad", "region": "Región del Maule", "idregion": 7 }
+{ "id": 222, "nombre": "Liquiñe", "tipo": "pueblo", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 84, "nombre": "Litueche", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 338, "nombre": "Llaillay", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 444, "nombre": "Llanquihue", "tipo": "ciudad", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 127, "nombre": "Llico", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 215, "nombre": "Llifén", "tipo": "pueblo", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 265, "nombre": "Lo Herrera", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 347, "nombre": "Lo Miranda", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 96, "nombre": "Lolol", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 419, "nombre": "Loncoche", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 372, "nombre": "Longaví", "tipo": "ciudad", "region": "Región del Maule", "idregion": 7 }
+{ "id": 208, "nombre": "Lonquimay", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 11, "nombre": "Loreto", "tipo": "pueblo", "region": "Región de Atacama", "idregion": 3 }
+{ "id": 63, "nombre": "Loreto", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 394, "nombre": "Los Álamos", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 324, "nombre": "Los Andes", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 389, "nombre": "Los Ángeles", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 435, "nombre": "Los Lagos", "tipo": "ciudad", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 183, "nombre": "Los Laureles", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 78, "nombre": "Los Lirios", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 42, "nombre": "Los Molles", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 443, "nombre": "Los Muermos", "tipo": "ciudad", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 104, "nombre": "Los Pellines", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 226, "nombre": "Los Pellines", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 40, "nombre": "Los Quinquelles", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 209, "nombre": "Los Sauces", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 301, "nombre": "Los Vilos", "tipo": "ciudad", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 381, "nombre": "Lota", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 210, "nombre": "Lumaco", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 343, "nombre": "Machalí", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 219, "nombre": "Máfil", "tipo": "pueblo", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 240, "nombre": "Maicolpue", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 34, "nombre": "Maitencillo", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 218, "nombre": "Malalhue", "tipo": "pueblo", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 71, "nombre": "Malloa", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 245, "nombre": "Mañihuales", "tipo": "pueblo", "region": "Región de Aysén", "idregion": 11 }
+{ "id": 85, "nombre": "Marchihue", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 286, "nombre": "María Elena", "tipo": "ciudad", "region": "Región de Antofagasta", "idregion": 2 }
+{ "id": 276, "nombre": "María Pinto", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 107, "nombre": "Maule", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 227, "nombre": "Maullín", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 220, "nombre": "Mehuín", "tipo": "pueblo", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 285, "nombre": "Mejillones", "tipo": "ciudad", "region": "Región de Antofagasta", "idregion": 2 }
+{ "id": 248, "nombre": "Melinka", "tipo": "pueblo", "region": "Región de Aysén", "idregion": 11 }
+{ "id": 190, "nombre": "Melipeuco", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 467, "nombre": "Melipilla", "tipo": "ciudad", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 148, "nombre": "Millantú", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 205, "nombre": "Mininco", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 53, "nombre": "Mirasol", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 370, "nombre": "Molina", "tipo": "ciudad", "region": "Región del Maule", "idregion": 7 }
+{ "id": 64, "nombre": "Molino", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 396, "nombre": "Monte Águila", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 305, "nombre": "Monte Patria", "tipo": "ciudad", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 399, "nombre": "Mulchén", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 400, "nombre": "Nacimiento", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 360, "nombre": "Nancagua", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 152, "nombre": "Negrete", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 223, "nombre": "Neltume", "tipo": "pueblo", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 213, "nombre": "Niebla", "tipo": "pueblo", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 165, "nombre": "Ninhue", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 331, "nombre": "Nogales", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 216, "nombre": "Nontuela", "tipo": "pueblo", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 229, "nombre": "Nueva Braunau", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 420, "nombre": "Nueva Imperial", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 197, "nombre": "Nueva Toltén", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 203, "nombre": "Ñancul", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 172, "nombre": "Ñipas", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 74, "nombre": "Olivar Alto", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 333, "nombre": "Olmué", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 448, "nombre": "Osorno", "tipo": "ciudad", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 303, "nombre": "Ovalle", "tipo": "ciudad", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 412, "nombre": "Padre Las Casas", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 207, "nombre": "Pailahueque", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 437, "nombre": "Paillaco", "tipo": "ciudad", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 465, "nombre": "Paine", "tipo": "ciudad", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 361, "nombre": "Palmilla", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 101, "nombre": "Panguilemo", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 438, "nombre": "Panguipulli", "tipo": "ciudad", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 131, "nombre": "Panimávida", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 57, "nombre": "Panquehue", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 44, "nombre": "Papudo", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 88, "nombre": "Paredones", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 373, "nombre": "Parral", "tipo": "ciudad", "region": "Región del Maule", "idregion": 7 }
+{ "id": 65, "nombre": "Parral de Purén", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 109, "nombre": "Pelarco", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 70, "nombre": "Pelequén", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 114, "nombre": "Pelluhue", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 167, "nombre": "Pemuco", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 110, "nombre": "Pencahue", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 382, "nombre": "Penco", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 474, "nombre": "Peñaflor", "tipo": "ciudad", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 98, "nombre": "Peralillo", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 191, "nombre": "Perquenco", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 47, "nombre": "Petorca", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 351, "nombre": "Peumo", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 2, "nombre": "Pica", "tipo": "pueblo", "region": "Región de Atacama", "idregion": 1 }
+{ "id": 41, "nombre": "Pichicuy", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 23, "nombre": "Pichidangui", "tipo": "pueblo", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 75, "nombre": "Pichidegua", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 357, "nombre": "Pichilemu", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 188, "nombre": "Pillanlelbún", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 168, "nombre": "Pinto", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 271, "nombre": "Pintué-La Guachera", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 421, "nombre": "Pitrufquén", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 100, "nombre": "Placilla", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 38, "nombre": "Placilla de Peñuelas", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 312, "nombre": "Placilla de Peñuelas", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 192, "nombre": "Playa Negra", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 99, "nombre": "Población", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 274, "nombre": "Pomaire", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 15, "nombre": "Portal del Inca", "tipo": "pueblo", "region": "Región de Atacama", "idregion": 3 }
+{ "id": 170, "nombre": "Portezuelo", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 252, "nombre": "Porvenir", "tipo": "pueblo", "region": "Región de Magallanes", "idregion": 12 }
+{ "id": 279, "nombre": "Pozo Almonte", "tipo": "ciudad", "region": "Región de Tarapacá", "idregion": 1 }
+{ "id": 35, "nombre": "Puchuncaví", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 422, "nombre": "Pucón", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 177, "nombre": "Pueblo Seco", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 179, "nombre": "Puente Ñuble", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 454, "nombre": "Puerto Aysén", "tipo": "ciudad", "region": "Región de Aysén", "idregion": 11 }
+{ "id": 246, "nombre": "Puerto Chacabuco", "tipo": "pueblo", "region": "Región de Aysén", "idregion": 11 }
+{ "id": 247, "nombre": "Puerto Cisnes", "tipo": "pueblo", "region": "Región de Aysén", "idregion": 11 }
+{ "id": 450, "nombre": "Puerto Montt", "tipo": "ciudad", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 456, "nombre": "Puerto Natales", "tipo": "ciudad", "region": "Región de Magallanes", "idregion": 12 }
+{ "id": 235, "nombre": "Puerto Octay", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 193, "nombre": "Puerto Saavedra", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 451, "nombre": "Puerto Varas", "tipo": "ciudad", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 20, "nombre": "Puerto Velero", "tipo": "pueblo", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 12, "nombre": "Puerto Viejo", "tipo": "pueblo", "region": "Región de Atacama", "idregion": 3 }
+{ "id": 251, "nombre": "Puerto Williams", "tipo": "pueblo", "region": "Región de Magallanes", "idregion": 12 }
+{ "id": 45, "nombre": "Pullalli", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 30, "nombre": "Punitaqui", "tipo": "pueblo", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 297, "nombre": "Punitaqui", "tipo": "ciudad", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 455, "nombre": "Punta Arenas", "tipo": "ciudad", "region": "Región de Magallanes", "idregion": 12 }
+{ "id": 352, "nombre": "Punta Diamante", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 427, "nombre": "Purén", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 449, "nombre": "Purranque", "tipo": "ciudad", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 339, "nombre": "Putaendo", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 1, "nombre": "Putre", "tipo": "pueblo", "region": "Región de Arica y Parinacota", "idregion": 15 }
+{ "id": 232, "nombre": "Queilén", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 447, "nombre": "Quellón", "tipo": "ciudad", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 233, "nombre": "Quemchi", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 185, "nombre": "Quepe", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 198, "nombre": "Queule", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 154, "nombre": "Quilaco", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 115, "nombre": "Quilicura", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 24, "nombre": "Quilimarí Alto", "tipo": "pueblo", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 155, "nombre": "Quilleco", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 407, "nombre": "Quillón", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 316, "nombre": "Quillota", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 311, "nombre": "Quilpué", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 161, "nombre": "Quinchamalí", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 353, "nombre": "Quinta de Tilcoco", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 32, "nombre": "Quintay", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 323, "nombre": "Quintero", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 408, "nombre": "Quirihue", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 140, "nombre": "Rafael", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 160, "nombre": "Ralco", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 342, "nombre": "Rancagua", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 80, "nombre": "Rastrojos", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 122, "nombre": "Rauco", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 169, "nombre": "Recinto-Los Lleuques", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 428, "nombre": "Renaico", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 354, "nombre": "Rengo", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 355, "nombre": "Requínoa", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 132, "nombre": "Retiro", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 224, "nombre": "Reumén", "tipo": "pueblo", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 326, "nombre": "Rinconada", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 439, "nombre": "Río Bueno", "tipo": "ciudad", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 244, "nombre": "Río Negro", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 452, "nombre": "Río Negro", "tipo": "ciudad", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 123, "nombre": "Romeral", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 76, "nombre": "Rosario", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 124, "nombre": "Sagrada Familia", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 302, "nombre": "Salamanca", "tipo": "ciudad", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 118, "nombre": "San Alberto", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 257, "nombre": "San Alfonso", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 313, "nombre": "San Antonio", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 409, "nombre": "San Carlos", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 147, "nombre": "San Carlos de Purén", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 367, "nombre": "San Clemente", "tipo": "ciudad", "region": "Región del Maule", "idregion": 7 }
+{ "id": 95, "nombre": "San Enrique de Romeral", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 327, "nombre": "San Esteban", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 175, "nombre": "San Fabián de Alico", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 320, "nombre": "San Felipe", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 358, "nombre": "San Fernando", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 350, "nombre": "San Francisco de Mostazal", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 166, "nombre": "San Gregorio de Ñiquén", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 176, "nombre": "San Ignacio", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 269, "nombre": "San Ignacio", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 374, "nombre": "San Javier", "tipo": "ciudad", "region": "Región del Maule", "idregion": 7 }
+{ "id": 436, "nombre": "San José de la Mariquina", "tipo": "ciudad", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 457, "nombre": "San José de Maipo", "tipo": "ciudad", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 33, "nombre": "San Juan Bautista", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 178, "nombre": "San Nicolás", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 241, "nombre": "San Pablo", "tipo": "pueblo", "region": "Región de los Lagos", "idregion": 10 }
+{ "id": 51, "nombre": "San Pedro", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 8, "nombre": "San Pedro de Atacama", "tipo": "pueblo", "region": "Región de Antofagasta", "idregion": 2 }
+{ "id": 385, "nombre": "San Pedro de la Paz", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 37, "nombre": "San Rafael", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 112, "nombre": "San Rafael", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 59, "nombre": "San Rafael (San Felipe)", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 398, "nombre": "San Rosendo", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 356, "nombre": "San Vicente de Tagua Tagua", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 401, "nombre": "Santa Bárbara", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 162, "nombre": "Santa Clara", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 362, "nombre": "Santa Cruz", "tipo": "ciudad", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 149, "nombre": "Santa Fe", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 386, "nombre": "Santa Juana", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 341, "nombre": "Santa María", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 259, "nombre": "Santa Marta de Liray", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 103, "nombre": "Santa Olga", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 141, "nombre": "Santa Rosa", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 263, "nombre": "Santa Sara", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 314, "nombre": "Santo Domingo", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 116, "nombre": "Sarmiento", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 68, "nombre": "Sewell", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 9, "nombre": "Socaire", "tipo": "pueblo", "region": "Región de Antofagasta", "idregion": 2 }
+{ "id": 28, "nombre": "Sotaquí", "tipo": "pueblo", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 470, "nombre": "Talagante", "tipo": "ciudad", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 363, "nombre": "Talca", "tipo": "ciudad", "region": "Región del Maule", "idregion": 7 }
+{ "id": 377, "nombre": "Talcahuano", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 137, "nombre": "Talcamávida", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 284, "nombre": "Taltal", "tipo": "ciudad", "region": "Región de Antofagasta", "idregion": 2 }
+{ "id": 411, "nombre": "Temuco", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 371, "nombre": "Teno", "tipo": "ciudad", "region": "Región del Maule", "idregion": 7 }
+{ "id": 195, "nombre": "Teodoro Schmidt", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 289, "nombre": "Tierra Amarilla", "tipo": "ciudad", "region": "Región de Atacama", "idregion": 3 }
+{ "id": 212, "nombre": "Tijeral", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 461, "nombre": "Tiltil", "tipo": "ciudad", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 94, "nombre": "Tinguiririca", "tipo": "pueblo", "region": "Región de O'Higgins", "idregion": 6 }
+{ "id": 146, "nombre": "Tirúa", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 283, "nombre": "Tocopilla", "tipo": "ciudad", "region": "Región de Antofagasta", "idregion": 2 }
+{ "id": 383, "nombre": "Tomé", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 18, "nombre": "Tongoy", "tipo": "pueblo", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 429, "nombre": "Traiguén", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 180, "nombre": "Treguaco", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 182, "nombre": "Trovolhue", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 158, "nombre": "Tucapel", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 431, "nombre": "Valdivia", "tipo": "ciudad", "region": "Región de los Ríos", "idregion": 14 }
+{ "id": 267, "nombre": "Valdivia de Paine", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 39, "nombre": "Valle Hermoso", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 293, "nombre": "Vallenar", "tipo": "ciudad", "region": "Región de Atacama", "idregion": 3 }
+{ "id": 307, "nombre": "Valparaíso", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 128, "nombre": "Vara Gruesa", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 126, "nombre": "Vichuquén", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 430, "nombre": "Victoria", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 299, "nombre": "Vicuña", "tipo": "ciudad", "region": "Región de Coquimbo", "idregion": 4 }
+{ "id": 199, "nombre": "Vilcún", "tipo": "pueblo", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 375, "nombre": "Villa Alegre", "tipo": "ciudad", "region": "Región del Maule", "idregion": 7 }
+{ "id": 310, "nombre": "Villa Alemana ", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 275, "nombre": "Villa Alhué", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 150, "nombre": "Villa Génesis", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 173, "nombre": "Villa Illinois", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 171, "nombre": "Villa Las Mercedes", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 340, "nombre": "Villa Los Almendros", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 117, "nombre": "Villa Los Niches", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 157, "nombre": "Villa Mercedes", "tipo": "pueblo", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 125, "nombre": "Villa Prat", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 423, "nombre": "Villarrica", "tipo": "ciudad", "region": "Región de la Araucanía", "idregion": 9 }
+{ "id": 268, "nombre": "Viluco", "tipo": "pueblo", "region": "Región Metropolitana", "idregion": 13 }
+{ "id": 309, "nombre": "Viña del Mar", "tipo": "ciudad", "region": "Región de Valparaíso", "idregion": 5 }
+{ "id": 135, "nombre": "Yerbas Buenas", "tipo": "pueblo", "region": "Región del Maule", "idregion": 7 }
+{ "id": 403, "nombre": "Yumbel", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 410, "nombre": "Yungay", "tipo": "ciudad", "region": "Región del Biobío", "idregion": 8 }
+{ "id": 48, "nombre": "Zapallar", "tipo": "pueblo", "region": "Región de Valparaíso", "idregion": 5 }
