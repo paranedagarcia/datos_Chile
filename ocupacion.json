@@ -1,0 +1,16 @@
+[{"id":"01","nombre":"Profesionales, Técnicos y Afines"},
+{"id":"02","nombre":"Gerentes, Administradores y Directivos"},
+{"id":"03","nombre":"Empleados oficina y afines"},
+{"id":"04","nombre":"Vendedores y afines"},
+{"id":"05","nombre":"Agricultores, Ganaderos, Pescadores"},
+{"id":"06","nombre":"Conductores y afines"},
+{"id":"08","nombre":"Artesanos y Operarios"},
+{"id":"10","nombre":"Otros Artesanos y Operarios"},
+{"id":"12","nombre":"Obreros y Jornaleros"},
+{"id":"13","nombre":"Trabajadores en Servicios Personales"},
+{"id":"14","nombre":"Dueña de casa"},
+{"id":"15","nombre":"Jubilado"},
+{"id":"15","nombre":"Cesante"},
+{"id":"15","nombre":"Otros trabajadores"},
+{"id":"15","nombre":"Estudiante"}
+]
